@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (if too large, but saimese_mturk.pth should be committed)
+# *.pth
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+
